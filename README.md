@@ -2,4 +2,292 @@
 
 This repository contains my solutions/progress through the freeCodeCamp curriculum.
 
+The FreeCodeCamp map:
+* Front End Development Certification
+  - HTML5 and CSS
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Responsive Design with Bootstrap
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - jQuery
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - **Basic Front End Development Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+  - Basic JavaScript
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Object Oriented and Functional Programming
+    - 00-Declare JavaScript Objects as Variables
+    - 01-Construct JavaScript Objects with Functions
+    - 02-Make Instances of Objects with a Constructor Function
+    - 03-Make Unique Objects by Passing Parameters to our Constructor
+    - 04-Make Object Properties Private
+    - 05-Iterate over Arrays with .map
+    - 06-Condense arrays with .reduce
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Basic Algorithm Scripting
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - JSON APIs and Ajax
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - **Intermediate Front End Development Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+  - Intermediate Algorithm Scripting
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Advanced Algorithm Scripting
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - **Advanced Front End Development Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+* Data Visualization Certification
+  - Sass
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - React
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - **React Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+  - D3
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - **Data Visualization Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+* Back End Development Certification
+  - Automated Testing and Debugging
+    - 00-
+  - Node.js and Express.js
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+  - Git
+    - 00-
+  - MongoDB
+    - 00-
+  - **API Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+  - **Dynamic Web Application Projects**
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+* Video Challenges
+  - Computer Basics
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - The DOM
+    - 00-
+    - 01-
+  - JavaScript Lingo
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Chrome Developer Tools
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Big O Notation
+    - 00-
+    - 01-
+    - 02-
+    - 03-
+    - 04-
+    - 05-
+    - 06-
+    - 07-
+    - 08-
+    - 09-
+    - 10-
+  - Accessibility
+    - 00-
+  - Agile
+    - 00-
+  - Computer Science
+    - 00-
+  - Data Visualization
+    - 00-
+  - Embedded and Internet of Things
+    - 00-
+  - Game Development
+    - 00-
+  - Gamification
+    - 00-
+  - Machine Learning
+    - 00-
+  - Math for Programmers
+    - 00-
+  - Mobile JavaScript Development
+    - 00-
+  - DevOps
+    - 00-
+  - Software Engineering Principles
+    - 00-
+  - Statistics
+    - 00-
+  - Tools
+    - 00-
+  - User Experience Design
+    - 00-
+  - Visual Design
+    - 00-
+
 [GitHub](https://github.com/TexasBullet26)
