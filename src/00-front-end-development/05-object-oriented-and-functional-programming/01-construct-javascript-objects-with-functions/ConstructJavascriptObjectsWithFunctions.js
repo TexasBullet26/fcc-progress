@@ -10,6 +10,21 @@ var MotorBike = function() {
     this.seats = 2;
 };
 
-console.log(MotorBike(engines)); // MotorBike should have a engines attribute set to a number.
-console.log(MotorBike(wheels)); // MotorBike should have a wheels attribute set to a number.
-console.log(MotorBike(seats)); // MotorBike should have a seats attribute set to a number.
+console.log(MotorBike()); // MotorBike should have a engines attribute set to a number.
+                          // MotorBike should have a wheels attribute set to a number.
+                          // MotorBike should have a seats attribute set to a number.
+{
+  "wheels": 2,
+  "engines": 1,
+  "seats": 2
+}
+
+/*
+ *
+ *    var function = function() {
+ *        object.property = number;
+ *        object.property = number;
+ *        object.property = number;
+ *    };
+ *
+ */

@@ -1,0 +1,433 @@
+# FreeCodeCamp Solutions
+
+---
+
+This repository contains my solutions/progress through the [FreeCodeCamp beta curriculum](https://beta.freecodecamp.org).
+
+The curriculum contains bit sized tutorials, algorithm challenges, videos, and projects. Below is the full map of the beta curriculum. **Note**: There are more tutorials and projects on the way that will be implemented soon. For now, you can find the beta curriculum [here](https://beta.Freecodecamp.org).
+
+---
+
+### The FreeCodeCamp beta curriculum map:
+- [ ] **Responsive Web Design Certification**
+  - [ ] *HTML and HTML5 (5 hours)*
+    - [ ] 00-Learn How freeCodeCamp Works
+    - [ ] 01-Introduction to the Basic HTML and HTML5 Challenges
+    - [ ] 02-Say Hello to HTML Elements
+    - [ ] 03-Headline with the h2 Element
+    - [ ] 04-Inform with the Paragraph Element    
+    - [ ] 05-Fill in the Blank with Placeholder Text
+    - [ ] 06-Uncomment out HTML
+    - [ ] 07-Comment out HTML
+    - [ ] 08-Delete HTML Elements
+    - [ ] 09-
+    - [ ] 10-Join a freeCodeCamp Study Group in Your City
+    - [ ] 11-Become a Supporter
+    - [ ] 11-Use CSS Selectors to Style Elements
+    - [ ] 12-Use a CSS Class to Style an Element
+    - [ ] 13-Style multiple Elements with a CSS Class
+    - [ ] 14-Change the Font Size of an Element
+    - [ ] 15-Set the Font Family of an Element
+    - [ ] 16-Import a Google Font
+    - [ ] 17-Specify How Fonts Should Degrade
+    - [ ] 18-Add Images to your Website
+    - [ ] 19-Size your Images
+    - [ ] 20-Add Borders Around your Elements
+    - [ ] 21-Add Rounded Corners with a Border Radius
+    - [ ] 22-Make Circular Images with a Border Radius
+    - [ ] 23-Link to External Pages with Anchor Elements
+    - [ ] 24-Nest an Anchor Element within a Paragraph
+    - [ ] 25-Make Dead Links using the Hash Symbol
+    - [ ] 26-Turn an Image into a Link
+    - [ ] 27-Create a Bulleted Unordered List
+    - [ ] 28-Create an Ordered List
+    - [ ] 29-Create a Text Field
+    - [ ] 30-Add Placeholder Text to a Text Field
+    - [ ] 31-Create a Form Element
+    - [ ] 32-Add a Submit Button to a Form
+    - [ ] 33-Use HTML5 to Require a Field
+    - [ ] 34-Create a Set of Radio Buttons
+    - [ ] 35-Create a Set of Checkboxes
+    - [ ] 36-Check Radio Buttons and Checkboxes by Default
+    - [ ] 37-Nest Many Elements within a Single Div Element
+    - [ ] 38-Give a Background Color to a Div Element
+    - [ ] 39-Set the ID of an Element
+    - [ ] 40-Use an ID Attribute to Style an Element
+    - [ ] 41-Adjusting the Padding of an Element
+    - [ ] 42-Adjust the Margin of an Element
+    - [ ] 43-Add a Negative Margin to an Element
+    - [ ] 44-Add Different Padding to Each side of an Element
+    - [ ] 45-Add Different Margins to Each side of an Element
+    - [ ] 46-Use Clockwise Notation to Specify the Padding of an Element
+    - [ ] 47-Use Clockwise Notation to Specify the Margin of an Element
+    - [ ] 48-Syle the HTML Body Element
+    - [ ] 49-Inherit Styles from the Body Element
+    - [ ] 50-Prioritize One Style Over Another
+    - [ ] 51-Override Styles in Subsequent CSS
+    - [ ] 52-Override Class Declarations by Styling ID Attributes
+    - [ ] 53-Override Class Declarations with Inline Styles
+    - [ ] 54-Overrid All Other Styles by using important
+    - [ ] 55-Use Hex Code for Specific Colors
+    - [ ] 56-Use Hex Code to Mix Colors
+    - [ ] 57-Use Abbreviated Hex Code
+    - [ ] 58-Use RGB values to Color Elements
+    - [ ] 59-Use RGB to Mix Colors
+  - [ ] *Basic CSS (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+    - [ ] 11-
+    - [ ] 12-
+    - [ ] 13-
+    - [ ] 14-
+    - [ ] 15-
+    - [ ] 16-
+    - [ ] 17-
+    - [ ] 18-
+    - [ ] 19-
+    - [ ] 20-
+    - [ ] 21-
+    - [ ] 22-
+    - [ ] 23-
+    - [ ] 24-
+    - [ ] 25-
+    - [ ] 26-
+    - [ ] 27-
+    - [ ] 28-
+    - [ ] 29-
+    - [ ] 30-
+  - [ ] *Applied Visual Design (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+    - [ ] 11-
+    - [ ] 12-
+    - [ ] 13-
+    - [ ] 14-
+    - [ ] 15-
+    - [ ] 16-
+    - [ ] 17-
+    - [ ] 18-
+    - [ ] 19-
+    - [ ] 20-
+    - [ ] 21-
+    - [ ] 22-
+    - [ ] 23-
+    - [ ] 24-
+    - [ ] 25-
+    - [ ] 26-
+    - [ ] 27-
+    - [ ] 28-
+    - [ ] 29-
+    - [ ] 30-
+  - [ ] *Applied Accessibility (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+  - [ ] *Responsive Web Design Principles (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+    - [ ] 11-
+    - [ ] 12-
+    - [ ] 13-
+    - [ ] 14-
+    - [ ] 15-
+    - [ ] 16-
+    - [ ] 17-
+    - [ ] 18-
+    - [ ] 19-
+    - [ ] 20-
+    - [ ] 21-
+    - [ ] 22-
+    - [ ] 23-
+    - [ ] 24-
+    - [ ] 25-
+    - [ ] 26-
+    - [ ] 27-
+    - [ ] 28-
+    - [ ] 29-
+    - [ ] 30-
+  - [ ] *CSS Flexbox (5 hours)*
+    - [ ] 00-Declare JavaScript Objects as Variables
+    - [ ] 01-Construct JavaScript Objects with Functions
+    - [ ] 02-Make Instances of Objects with a Constructor Function
+    - [ ] 03-Make Unique Objects by Passing Parameters to our Constructor
+    - [ ] 04-Make Object Properties Private
+    - [ ] 05-Iterate over Arrays with .map
+    - [ ] 06-Condense arrays with .reduce
+    - [ ] 07-Filter Arrays with .filter
+    - [ ] 08-Sort Arrays with .sort
+    - [ ] 09-Reverse Arrays with .reverse
+    - [ ] 10-Concatenate Arrays with .concat
+    - [ ] 11-Split Strings with .split
+    - [ ] 12-Join Strings with .join
+  - [ ] *Applied Responsive Web Design Projects (150 hours)*
+    - [ ] 00-Get Set for our Responsive Web Design Projects
+    - [ ] 01-Build a Tribute Page
+    - [ ] 02-Build a Survey Form
+    - [ ] 03-Build a Product Landing Page
+    - [ ] 04-Build a Technical Documentation Page
+    - [ ] 05-Build a Personal Portfolio Webpage
+- [ ] **JavaScript Algorithms and Data Structures Certification**
+  - [ ] *Basic JavaScript (10 hours)*
+    - [ ] 00-Trigger Click Events with jQuery
+    - [ ] 01-Change Text with Click Events
+    - [ ] 02-Get JSON with the jQuery getJSON method
+    - [ ] 03-Convert JSON Data to HTML
+    - [ ] 04-Render Images from Data Sources
+    - [ ] 05-Prefilter JSON
+    - [ ] 06-Get Geo-location Data
+  - [ ] *ES6 (5 hours)*
+    - [ ] 00-Build a Random Quote Machine
+    - [ ] 01-Show the Local Weather
+    - [ ] 02-Build a Wikipedia Viewer
+    - [ ] 03-Use the Twitch.tv JSON API
+  - [ ] *Regular Expressions (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Debugging (1 hour)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Basic Data Structures (1 hour)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+  - [ ] *Basic Algorithm Scripting (50 hours)*
+    - [ ] 00-
+  - [ ] *Object Oriented Programming (5 hours)*
+    - [ ] 00-
+  - [ ] *Functional Programming (5 hours)*
+    - [ ] 00-
+  - [ ] *Intermediate Algorithm Scripting (50 hours)*
+    - [ ] 00-
+  - [ ] *JavaScript Algorithms and Data Structures Projects (50 hours)*
+    - [ ] 00-
+- [ ] **Front End Libraries Certification**
+  - [ ] *Bootstrap (5 hours)*
+    - [ ] 00-
+  - [ ] *jQuery (3 hours)*
+    - [ ] 00-
+  - [ ] *Sass (5 hours)*
+    - [ ] 00-
+  - [ ] *React (5 hours)*
+    - [ ] 00-
+  - [ ] *Redux (5 hours)*
+    - [ ] 00-
+  - [ ] *React and Redux (5 hours)*
+    - [ ] 00-
+  - [ ] *Front End Libraries Projects (150 hours)*
+    - [ ] 00-
+- [ ] **Data Visualization Certification**
+  - [ ] *Data Visualization with D3 (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *JSON APIs and AJAX (2 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Data Visualization Projects (150 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+- [ ] **Apis and Microservices**
+  - [ ] *Managing Packages with npm (5 hours)*
+    - [ ] 00-Introduction to the Managing Packages with npm Challenges
+    - [ ] 01-How to Use package.json, the Core of Any Node.js Project or npm Package
+    - [ ] 02-Add a Description to Your package.json
+    - [ ] 03-Add Keywords to Your package.json
+    - [ ] 04-Add a License to Your package.json
+    - [ ] 05-Add a Version to Your package.json
+    - [ ] 06-Expand Your Project with External Packages from npm
+    - [ ] 07-Manage npm Dependencies By Understanding Semantic Versioning
+    - [ ] 08-Use the Tilde-Character to Always Use the Latest Patch Version of a Dependency
+    - [ ] 09-Use the Caret-Character to Use the Latest Minor Version of a Dependency
+    - [ ] 10-Remove a Package from Your Dependencies
+  - [ ] *Basic Node and Express (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *MongoDB and Mongoose 5 hours*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+  - [ ] *API and Microservice Projects (150 hours)*
+    - [ ] 00-
+- [ ] **Information Security and Quality Assurance**
+  - [ ] *Information Security with HelmetJS (5 hours)*
+    - [ ] 00-
+  - [ ] *Quality Assurance and Testing with Chai (5 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+  - [ ] *Advanced Node and Express (5 hours)*
+    - [ ] 00-
+  - [ ] *Information Security and Quality Assurance Projects (150 hours)*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+- [ ] **Video Challenges**
+  - [ ] *Computer Basics*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *The DOM*
+    - [ ] 00-
+    - [ ] 01-
+  - [ ] *JavaScript Lingo*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Chrome Developer Tools*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Big O Notation*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Accessibility*
+    - [ ] 00-
+  - [ ] *Agile*
+    - [ ] 00-
+  - [ ] *Computer Science*
+    - [ ] 00-
+  - [ ] *Data Visualization*
+    - [ ] 00-
+  - [ ] *Embedded and Internet of Things*
+    - [ ] 00-
+  - [ ] *Game Development*
+    - [ ] 00-
+  - [ ] *Gamification*
+    - [ ] 00-
+  - [ ] *Machine Learning*
+    - [ ] 00-
+  - [ ] *Math for Programmers*
+    - [ ] 00-
+  - [ ] *Mobile JavaScript Development*
+    - [ ] 00-
+  - [ ] *DevOps*
+    - [ ] 00-
+  - [ ] *Software Engineering Principles*
+    - [ ] 00-
+  - [ ] *Statistics*
+    - [ ] 00-
+  - [ ] *Tools*
+    - [ ] 00-
+  - [ ] *User Experience Design*
+    - [ ] 00-
+  - [ ] *Visual Design*
+    - [ ] 00-
+
+#### Social Media:
+
+[GitHub](https://github.com/TexasBullet26)  [Email](mailto:lanzertrey@gmail.com)  [Linkedin](https://www.linkedin.com/in/glenn-lanzer-426244101/)  [CodePen](https://codepen.io/TexasBullets26)  [Facebook](https://facebook.com/trey.lanzer)  [Twitter](https://twitter.com/LanzerTrey26)  [Medium](https://medium.com/@LanzerTrey26)
