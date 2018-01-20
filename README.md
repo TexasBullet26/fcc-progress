@@ -1,293 +1,411 @@
-# freeCodeCamp Solutions
+# FreeCodeCamp Solutions
 
-This repository contains my solutions/progress through the freeCodeCamp curriculum.
+---
 
-The FreeCodeCamp map:
-* Front End Development Certification
-  - HTML5 and CSS
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Responsive Design with Bootstrap
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - jQuery
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - **Basic Front End Development Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-  - Basic JavaScript
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Object Oriented and Functional Programming
-    - 00-Declare JavaScript Objects as Variables
-    - 01-Construct JavaScript Objects with Functions
-    - 02-Make Instances of Objects with a Constructor Function
-    - 03-Make Unique Objects by Passing Parameters to our Constructor
-    - 04-Make Object Properties Private
-    - 05-Iterate over Arrays with .map
-    - 06-Condense arrays with .reduce
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Basic Algorithm Scripting
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - JSON APIs and Ajax
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - **Intermediate Front End Development Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-  - Intermediate Algorithm Scripting
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Advanced Algorithm Scripting
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - **Advanced Front End Development Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-* Data Visualization Certification
-  - Sass
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - React
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - **React Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-  - D3
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - **Data Visualization Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-* Back End Development Certification
-  - Automated Testing and Debugging
-    - 00-
-  - Node.js and Express.js
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-  - Git
-    - 00-
-  - MongoDB
-    - 00-
-  - **API Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-  - **Dynamic Web Application Projects**
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-* Video Challenges
-  - Computer Basics
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - The DOM
-    - 00-
-    - 01-
-  - JavaScript Lingo
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Chrome Developer Tools
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Big O Notation
-    - 00-
-    - 01-
-    - 02-
-    - 03-
-    - 04-
-    - 05-
-    - 06-
-    - 07-
-    - 08-
-    - 09-
-    - 10-
-  - Accessibility
-    - 00-
-  - Agile
-    - 00-
-  - Computer Science
-    - 00-
-  - Data Visualization
-    - 00-
-  - Embedded and Internet of Things
-    - 00-
-  - Game Development
-    - 00-
-  - Gamification
-    - 00-
-  - Machine Learning
-    - 00-
-  - Math for Programmers
-    - 00-
-  - Mobile JavaScript Development
-    - 00-
-  - DevOps
-    - 00-
-  - Software Engineering Principles
-    - 00-
-  - Statistics
-    - 00-
-  - Tools
-    - 00-
-  - User Experience Design
-    - 00-
-  - Visual Design
-    - 00-
+This repository contains my solutions/progress through the [FreeCodeCamp curriculum](https://freecodecamp.org).
 
-[GitHub](https://github.com/TexasBullet26)
+The curriculum contains bit sized tutorials, algorithm challenges, videos, and projects. Below is the full map of the curriculum. **Note**: There are more tutorials and projects on the way that will be implemented soon. For now, you can find the beta curriculum [here](https://beta.Freecodecamp.org).
+
+---
+
+### The FreeCodeCamp map:
+- [ ] **Front End Development Certification**
+  - [ ] *HTML5 and CSS*
+    - [ ] 00-Learn How freeCodeCamp Works
+    - [ ] 01-Say Hello to HTML Elements
+    - [ ] 02-Headline with the h2 Element
+    - [ ] 03-Inform with the Paragraph Element    
+    - [ ] 04-Uncomment HTML
+    - [ ] 05-Comment out HTML
+    - [ ] 06-Fill in the Blank with Placeholder Text
+    - [ ] 07-Delete HTML Elements
+    - [ ] 08-Change the Color of Text
+    - [ ] 09-Join a freeCodeCamp Study Group in Your City
+    - [ ] 10-Become a Supporter
+    - [ ] 11-Use CSS Selectors to Style Elements
+    - [ ] 12-Use a CSS Class to Style an Element
+    - [ ] 13-Style multiple Elements with a CSS Class
+    - [ ] 14-Change the Font Size of an Element
+    - [ ] 15-Set the Font Family of an Element
+    - [ ] 16-Import a Google Font
+    - [ ] 17-Specify How Fonts Should Degrade
+    - [ ] 18-Add Images to your Website
+    - [ ] 19-Size your Images
+    - [ ] 20-Add Borders Around your Elements
+    - [ ] 21-Add Rounded Corners with a Border Radius
+    - [ ] 22-Make Circular Images with a Border Radius
+    - [ ] 23-Link to External Pages with Anchor Elements
+    - [ ] 24-Nest an Anchor Element within a Paragraph
+    - [ ] 25-Make Dead Links using the Hash Symbol
+    - [ ] 26-Turn an Image into a Link
+    - [ ] 27-Create a Bulleted Unordered List
+    - [ ] 28-Create an Ordered List
+    - [ ] 29-Create a Text Field
+    - [ ] 30-Add Placeholder Text to a Text Field
+    - [ ] 31-Create a Form Element
+    - [ ] 32-Add a Submit Button to a Form
+    - [ ] 33-Use HTML5 to Require a Field
+    - [ ] 34-Create a Set of Radio Buttons
+    - [ ] 35-Create a Set of Checkboxes
+    - [ ] 36-Check Radio Buttons and Checkboxes by Default
+    - [ ] 37-Nest Many Elements within a Single Div Element
+    - [ ] 38-Give a Background Color to a Div Element
+    - [ ] 39-Set the ID of an Element
+    - [ ] 40-Use an ID Attribute to Style an Element
+    - [ ] 41-Adjusting the Padding of an Element
+    - [ ] 42-Adjust the Margin of an Element
+    - [ ] 43-Add a Negative Margin to an Element
+    - [ ] 44-Add Different Padding to Each side of an Element
+    - [ ] 45-Add Different Margins to Each side of an Element
+    - [ ] 46-Use Clockwise Notation to Specify the Padding of an Element
+    - [ ] 47-Use Clockwise Notation to Specify the Margin of an Element
+    - [ ] 48-Syle the HTML Body Element
+    - [ ] 49-Inherit Styles from the Body Element
+    - [ ] 50-Prioritize One Style Over Another
+    - [ ] 51-Override Styles in Subsequent CSS
+    - [ ] 52-Override Class Declarations by Styling ID Attributes
+    - [ ] 53-Override Class Declarations with Inline Styles
+    - [ ] 54-Overrid All Other Styles by using important
+    - [ ] 55-Use Hex Code for Specific Colors
+    - [ ] 56-Use Hex Code to Mix Colors
+    - [ ] 57-Use Abbreviated Hex Code
+    - [ ] 58-Use RGB values to Color Elements
+    - [ ] 59-Use RGB to Mix Colors
+  - [ ] *Responsive Design with Bootstrap*
+    - [ ] 00-Use Responsive Design with Bootstrap Fluid Containers
+    - [ ] 01-Make Images Mobile Responsive
+    - [ ] 02-Center Text with Bootstrap
+    - [ ] 03-Create a Bootstrap Button
+    - [ ] 04-Create a Block Element Bootstrap Button
+    - [ ] 05-Taste the Bootstrap Button Color Rainbow
+    - [ ] 06-Call out Optional Actions with Button Info
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+    - [ ] 11-
+    - [ ] 12-
+    - [ ] 13-
+    - [ ] 14-
+    - [ ] 15-
+    - [ ] 16-
+    - [ ] 17-
+    - [ ] 18-
+    - [ ] 19-
+    - [ ] 20-
+    - [ ] 21-
+    - [ ] 22-
+    - [ ] 23-
+    - [ ] 24-
+    - [ ] 25-
+    - [ ] 26-
+    - [ ] 27-
+    - [ ] 28-
+    - [ ] 29-
+    - [ ] 30-
+  - [ ] *jQuery*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+    - [ ] 11-
+    - [ ] 12-
+    - [ ] 13-
+    - [ ] 14-
+    - [ ] 15-
+    - [ ] 16-
+    - [ ] 17-
+    - [ ] 18-
+    - [ ] 19-
+    - [ ] 20-
+    - [ ] 21-
+    - [ ] 22-
+    - [ ] 23-
+    - [ ] 24-
+    - [ ] 25-
+    - [ ] 26-
+    - [ ] 27-
+    - [ ] 28-
+    - [ ] 29-
+    - [ ] 30-
+  - [ ] *Basic Front End Development Projects*
+    - [ ] 00-Get Set for our Front End Development Projects
+    - [ ] 01-Build a Tribute Page
+    - [ ] 02-Build a Personal Portfolio Webpage
+  - [ ] *Basic JavaScript*
+    - [ ] 00-Comment your JavaScript Code
+    - [ ] 01-Declare JavaScript Variables
+    - [ ] 02-Storing Values with the Assignment Operator
+    - [ ] 03-Initializing Variables with the Assignment Operator
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+    - [ ] 11-
+    - [ ] 12-
+    - [ ] 13-
+    - [ ] 14-
+    - [ ] 15-
+    - [ ] 16-
+    - [ ] 17-
+    - [ ] 18-
+    - [ ] 19-
+    - [ ] 20-
+    - [ ] 21-
+    - [ ] 22-
+    - [ ] 23-
+    - [ ] 24-
+    - [ ] 25-
+    - [ ] 26-
+    - [ ] 27-
+    - [ ] 28-
+    - [ ] 29-
+    - [ ] 30-
+  - [ ] *Object Oriented and Functional Programming*
+    - [x] 00-Declare JavaScript Objects as Variables
+    - [x] 01-Construct JavaScript Objects with Functions
+    - [x] 02-Make Instances of Objects with a Constructor Function
+    - [ ] 03-Make Unique Objects by Passing Parameters to our Constructor
+    - [ ] 04-Make Object Properties Private
+    - [ ] 05-Iterate over Arrays with .map
+    - [ ] 06-Condense arrays with .reduce
+    - [ ] 07-Filter Arrays with .filter
+    - [ ] 08-Sort Arrays with .sort
+    - [ ] 09-Reverse Arrays with .reverse
+    - [ ] 10-Concatenate Arrays with .concat
+    - [ ] 11-Split Strings with .split
+    - [ ] 12-Join Strings with .join
+  - [ ] *Basic Algorithm Scripting*
+    - [ ] 00-Get Set for our Algorithm Challenges
+    - [ ] 01-Reverse a String
+    - [x] 02-Factorialize a Number
+    - [ ] 03-Check for Palindromes
+    - [ ] 04-Find the Longest Word in a String
+    - [ ] 05-Title Case a Sentence
+    - [ ] 06-Return Largest Numbers in Arrays
+    - [ ] 07-Confirm the Ending
+    - [ ] 08-Repeat a string repeat a string
+    - [ ] 09-Truncate a string
+    - [ ] 10-Chunky Monkey
+    - [ ] 11-Slasher Flick
+    - [ ] 12-Mutations
+    - [ ] 13-Falsy Bouncer
+    - [ ] 14-Seek and Destroy
+    - [ ] 15-Where do I belong
+    - [ ] 16-Caesars Cipher
+  - [ ] *JSON APIs and Ajax*
+    - [ ] 00-Trigger Click Events with jQuery
+    - [ ] 01-Change Text with Click Events
+    - [ ] 02-Get JSON with the jQuery getJSON method
+    - [ ] 03-Convert JSON Data to HTML
+    - [ ] 04-Render Images from Data Sources
+    - [ ] 05-Prefilter JSON
+    - [ ] 06-Get Geo-location Data
+  - [ ] *Intermediate Front End Development Projects*
+    - [ ] 00-Build a Random Quote Machine
+    - [ ] 01-Show the Local Weather
+    - [ ] 02-Build a Wikipedia Viewer
+    - [ ] 03-Use the Twitch.tv JSON API
+  - [ ] *Intermediate Algorithm Scripting*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Advanced Algorithm Scripting*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Advanced Front End Development Projects*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+- [ ] **Data Visualization Certification**
+  - [ ] *Sass*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *React*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *React Projects*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+  - [ ] *D3*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Data Visualization Projects*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+- [ ] **Back End Development Certification**
+  - [ ] *Automated Testing and Debugging*
+    - [ ] 00-
+  - [ ] *Node.js and Express.js*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+  - [ ] *Git*
+    - [ ] 00-
+  - [ ] *MongoDB*
+    - [ ] 00-
+  - [ ] *API Projects*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+  - [ ] *Dynamic Web Application Projects*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+- [ ] **Video Challenges**
+  - [ ] *Computer Basics*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *The DOM*
+    - [ ] 00-
+    - [ ] 01-
+  - [ ] *JavaScript Lingo*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Chrome Developer Tools*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Big O Notation*
+    - [ ] 00-
+    - [ ] 01-
+    - [ ] 02-
+    - [ ] 03-
+    - [ ] 04-
+    - [ ] 05-
+    - [ ] 06-
+    - [ ] 07-
+    - [ ] 08-
+    - [ ] 09-
+    - [ ] 10-
+  - [ ] *Accessibility*
+    - [ ] 00-
+  - [ ] *Agile*
+    - [ ] 00-
+  - [ ] *Computer Science*
+    - [ ] 00-
+  - [ ] *Data Visualization*
+    - [ ] 00-
+  - [ ] *Embedded and Internet of Things*
+    - [ ] 00-
+  - [ ] *Game Development*
+    - [ ] 00-
+  - [ ] *Gamification*
+    - [ ] 00-
+  - [ ] *Machine Learning*
+    - [ ] 00-
+  - [ ] *Math for Programmers*
+    - [ ] 00-
+  - [ ] *Mobile JavaScript Development*
+    - [ ] 00-
+  - [ ] *DevOps*
+    - [ ] 00-
+  - [ ] *Software Engineering Principles*
+    - [ ] 00-
+  - [ ] *Statistics*
+    - [ ] 00-
+  - [ ] *Tools*
+    - [ ] 00-
+  - [ ] *User Experience Design*
+    - [ ] 00-
+  - [ ] *Visual Design*
+    - [ ] 00-
+
+#### Social Media:
+
+[GitHub](https://github.com/TexasBullet26)  [Email](mailto:lanzertrey@gmail.com)  [Linkedin](https://www.linkedin.com/in/glenn-lanzer-426244101/)  [CodePen](https://codepen.io/TexasBullets26)  [Facebook](https://facebook.com/trey.lanzer)  [Twitter](https://twitter.com/LanzerTrey26)  [Medium](https://medium.com/@LanzerTrey26)
